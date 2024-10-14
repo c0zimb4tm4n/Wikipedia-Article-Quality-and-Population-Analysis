@@ -10,6 +10,7 @@ The project culminates in a series of tables showcasing:
 - Rankings of geographic regions by articles-per-person and proportion of high-quality articles.
 
 ## Folder Structure
+```
 data-512-homework_2/
 │
 ├── code/                            # Folder containing all code files
@@ -29,6 +30,7 @@ data-512-homework_2/
 │
 ├── LICENSE                          # License file
 └── README.md                        # This file
+```
 
 ## Data Sources
 
@@ -46,7 +48,6 @@ data-512-homework_2/
    - *Schema*:
      - `Geography`: Name of the country or region
      - `Population`: Population of the country in millions
-     - `region`: Assigned region (e.g., Asia, Africa)
 
 ## Process
 
