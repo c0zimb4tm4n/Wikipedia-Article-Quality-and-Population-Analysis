@@ -83,7 +83,7 @@ The results are produced in the form of tables, including:
 5. Geographic regions ranked by total articles per capita.
 6. Geographic regions ranked by high-quality articles per capita.
 
-### Step 5: Research Implications
+## Research Implications
 
 #### Biases Expected Before Data Processing
 Before working with the data, I expected to find biases related to geographical coverage. Since Wikipedia is dominated by English-speaking contributors, I assumed that countries with larger English-speaking populations, such as the U.S., U.K., and Australia, would have greater article coverage and more high-quality articles compared to non-English-speaking countries.
