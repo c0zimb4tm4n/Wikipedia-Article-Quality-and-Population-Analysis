@@ -1,4 +1,4 @@
-# DATA512 - Homework 2: Wikipedia Article Quality and Population Analysis
+# Wikipedia Article Quality and Population Analysis
 
 ## Overview
 
@@ -11,7 +11,7 @@ The project culminates in a series of tables showcasing:
 
 ## Folder Structure
 ```
-data-512-homework_2/
+Wikipedia-Article-Quality-and-Population-Analysis/
 │
 ├── code/                            # Folder containing all code files
    ├── data_analysis.ipynb              # Notebook for analyzing the merged data
